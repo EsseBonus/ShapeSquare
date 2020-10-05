@@ -13,6 +13,8 @@ namespace ConsoleApp1
             Console.WriteLine(SquareCalculator.GetShapeSquare((1, 2), (4, 5), (4, 2)));
             Console.WriteLine(SquareCalculator.GetShapeSquare((1, 2), (4, 5), (6, 2)));
             Console.WriteLine(SquareCalculator.GetShapeSquare((1, 2), (4, 2)));
+
+            Console.WriteLine("done");
         }
     }
 
